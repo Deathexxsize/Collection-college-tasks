@@ -1,4 +1,4 @@
 package stringBuilderTasks;
 
-public class MAin {
+public class Main {
 }
